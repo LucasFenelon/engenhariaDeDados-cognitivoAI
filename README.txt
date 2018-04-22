@@ -1,12 +1,12 @@
 ENGENHARIA DE DADOS (COGNITIVO AI)
 
-O desafio proposto È composto de trÍs tarefas b·sicas, s„o estas:
+O desafio proposto √© composto de tr√™s tarefas b√°sicas, s√£o estas:
 
-1 - CriaÁ„o do modelo conceitual:
-Uma vez an·lisados os termos propostos foi criado o modelo conceitual b·sico usando a ferramenta Visio, porÈm para f·cil visualizaÁ„o foi exportada uma vers„o .png contina na pasta "modelo conceitual".
+1 - Cria√ß√£o do modelo conceitual:
+Uma vez an√°lisados os termos propostos foi criado o modelo conceitual b√°sico usando a ferramenta Visio, por√©m para f√°cil visualiza√ß√£o foi exportada uma vers√£o .png contina na pasta "modelo conceitual".
 
-2 - ImplementaÁ„o  da infraestrutura:
-Considerando que a ferramenta escolhida foi o MySql, sabemos que existem diversas versıes e vias de instalaÁ„o dependendo do sistema operacional, neste caso o S.O. escolhido foi Windows e o arquivo .doc contido na pasta "infraestrutura" tem os insumos necess·rios para a cria desta tarefa, por parte do avaliador.
+2 - Implementa√ß√£o  da infraestrutura:
+Considerando que a ferramenta escolhida foi o MySql, sabemos que existem diversas vers√µes e vias de instala√ß√£o dependendo do sistema operacional, neste caso o S.O. escolhido foi Windows e o arquivo .doc contido na pasta "infraestrutura" tem os insumos necess√°rios para a cria√ß√£o desta tarefa, por parte do avaliador.
 
-3 - CriaÁ„o de artefatos e carga dos arquivos ".csv":
-Os scripts contidos na pasta "scripts" executam essa tarefa e contemplam a criaÁ„o fÌsica e a carga das tabelas mediante correta configuraÁ„o da infraestrutura documentada no item 2.
+3 - Cria√ß√£o de artefatos e carga dos arquivos ".csv":
+Os scripts contidos na pasta "scripts" executam essa tarefa e contemplam a cria√ß√£o f√≠sica e a carga das tabelas mediante correta configura√ß√£o da infraestrutura documentada no item 2.
